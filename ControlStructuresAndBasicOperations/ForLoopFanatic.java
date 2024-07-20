@@ -12,7 +12,7 @@ public class ForLoopFanatic {
             int c=a+b;
             a=b;
             b=c;
-            System.out.println(c );
+            System.out.println(c);
         }
 
     }
